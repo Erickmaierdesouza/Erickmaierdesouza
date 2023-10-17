@@ -4,4 +4,5 @@ dos meus amigos
 dormir
 comer
 sair
-
+gastar 
+comprar roupa
